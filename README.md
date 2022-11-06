@@ -1,7 +1,4 @@
-
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
-/*<a href=#><img src="contributions.svg"></a>*/
+<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><img src="1667771880552.jpg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 <p align="center"> 
   Visitor count<br>
